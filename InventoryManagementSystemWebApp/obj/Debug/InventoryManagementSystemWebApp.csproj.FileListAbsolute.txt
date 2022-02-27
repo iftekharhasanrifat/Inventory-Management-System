@@ -1,0 +1,9 @@
+F:\C# PRACTICE\InventoryManagementSystemWebApp\InventoryManagementSystemWebApp\bin\InventoryManagementSystemWebApp.dll.config
+F:\C# PRACTICE\InventoryManagementSystemWebApp\InventoryManagementSystemWebApp\bin\InventoryManagementSystemWebApp.dll
+F:\C# PRACTICE\InventoryManagementSystemWebApp\InventoryManagementSystemWebApp\bin\InventoryManagementSystemWebApp.pdb
+F:\C# PRACTICE\InventoryManagementSystemWebApp\InventoryManagementSystemWebApp\obj\Debug\InventoryManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\C# PRACTICE\InventoryManagementSystemWebApp\InventoryManagementSystemWebApp\obj\Debug\InventoryManagementSystemWebApp.dll
+F:\C# PRACTICE\InventoryManagementSystemWebApp\InventoryManagementSystemWebApp\obj\Debug\InventoryManagementSystemWebApp.pdb
+F:\C# PRACTICE\InventoryManagementSystemWebApp\InventoryManagementSystemWebApp\bin\BouncyCastle.Crypto.dll
+F:\C# PRACTICE\InventoryManagementSystemWebApp\InventoryManagementSystemWebApp\bin\itextsharp.dll
+F:\C# PRACTICE\InventoryManagementSystemWebApp\InventoryManagementSystemWebApp\bin\itextsharp.xml
